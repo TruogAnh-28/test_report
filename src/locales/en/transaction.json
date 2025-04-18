@@ -1,0 +1,22 @@
+{
+  "title": "Transaction History",
+  "status": {
+    "pay": "Payment",
+    "refund": "Refund",
+    "charge": "Charge"
+  },
+  "table": {
+    "transactionId": "Transaction ID",
+    "walletId": "Wallet ID",
+    "amount": "Amount",
+    "status": "Status",
+    "date": "Date"
+  },
+  "filter": {
+    "fromDate": "From date",
+    "toDate": "To date",
+    "chooseFromDate": "Choose from date",
+    "chooseToDate": "Choose to date",
+    "enterWalletId": "Enter wallet ID"
+  }
+}

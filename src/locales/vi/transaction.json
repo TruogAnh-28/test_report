@@ -1,0 +1,22 @@
+{
+  "title": "Lịch sử giao dịch",
+  "status": {
+    "pay": "Thanh toán",
+    "refund": "Hoàn tiền",
+    "charge": "Nạp tiền"
+  },
+  "table": {
+    "transactionId": "Mã giao dịch",
+    "walletId": "Mã ví",
+    "amount": "Số tiền",
+    "status": "Trạng thái",
+    "date": "Ngày giao dịch"
+  },
+  "filter": {
+    "fromDate": "Từ ngày",
+    "toDate": "Đến ngày",
+    "chooseFromDate": "Chọn từ ngày",
+    "chooseToDate": "Chọn đến ngày",
+    "enterWalletId": "Nhập mã ví"
+  }
+}

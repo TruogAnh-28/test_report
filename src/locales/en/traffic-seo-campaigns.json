@@ -1,0 +1,115 @@
+{
+    "title": "Traffic Campaigns List",
+    "titleCreate": "Create Traffic Campaign",
+    "titleUpdate": "Update Traffic Campaign",
+    "create": "Create Campaign",
+    "edit": "Edit Campaign",
+    "filters": {
+      "device": "Device",
+      "allDevices": "All Devices",
+      "status": "Status",
+      "domain": "Domain",
+      "dateRange": "Date Range",
+      "startDate": "Start date: ",
+      "endDate": "End date: ",
+      "chooseStartDate": "Choose start date",
+      "chooseEndDate": "Choose end date",
+      "enterDomain": "Enter domain to filter"
+    },
+    "deviceOptions": {
+      "mobile": "Mobile",
+      "tablet": "Tablet",
+      "desktop": "Desktop",
+      "all": "All Devices"
+    },
+    "statusOptions": {
+      "active": "Active",
+      "paused": "Paused",
+      "scheduled": "Scheduled",
+      "inactive": "Inactive",
+      "processing": "Processing"
+    },
+    "form": {
+      "sectionInfo": "Campaign Information",
+      "name": "Campaign Name",
+      "domain": "Domain",
+      "search": "Search Engine",
+      "timeCode": "Code Collection Time",
+      "totalTraffic": "Total Traffic",
+      "cost": "Cost",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "device": "Device",
+      "placeholders": {
+        "name": "Enter campaign name",
+        "domain": "Enter domain (e.g. example.com)",
+        "search": "Enter search engine (e.g. Google)",
+        "timeCode": "Enter code collection time",
+        "totalTraffic": "Enter total traffic (e.g. 1000)",
+        "cost": "Enter cost"
+      },
+      "keywords": {
+        "title": "Keywords",
+        "add": "Add Keyword",
+        "empty": "No keywords yet. Please add keywords for the campaign.",
+        "keyword": "Keyword",
+        "name": "Keyword",
+        "traffic": "Traffic",
+        "distribution": "Distribution",
+        "urls": "URLs",
+        "addUrl": "Add URL",
+        "placeholders": {
+          "name": "Enter keyword",
+          "traffic": "Enter traffic for this keyword",
+          "url": "https://example.com/page"
+        }
+      },
+      "links": {
+        "title": "Links",
+        "add": "Add Link",
+        "empty": "No links yet. Please add links for the campaign.",
+        "link": "Link",
+        "linkSource": "Source Link",
+        "linkTarget": "Target Link",
+        "distribution": "Distribution",
+        "traffic": "Traffic",
+        "anchorText": "Anchor Text",
+        "status": "Status",
+        "url": "URL",
+        "page": "Page",
+        "placeholders": {
+          "linkSource": "Enter source link",
+          "linkTarget": "Enter target link",
+          "distribution": "Enter distribution method",
+          "traffic": "Enter traffic for this link",
+          "anchorText": "Enter anchor text",
+          "url": "Enter URL",
+          "page": "Enter page"
+        }
+      },
+      "distributionOptions": {
+        "day": "Day",
+        "month": "Month",
+        "year": "Year"
+      },
+      "successMessages": {
+        "create": "Campaign has been successfully created",
+        "update": "Campaign has been successfully updated"
+      },
+      "errorMessages": {
+        "requestFailed": "Request failed"
+      }
+    },
+    "table": {
+      "noData": "No data available.",
+      "loading": "Loading data..."
+    },
+    "action":{
+      "action": "Action",
+      "edit": "Edit",
+      "deleteCampaign": "Delete Campaign",
+      "deleteConfirm": "Are you sure you want to delete this campaign?",
+      "delete": "Delete"
+    }
+}
+
